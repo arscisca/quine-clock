@@ -13,3 +13,4 @@ time_t t;char*p,*e;extern char*i;x,y,h,m,s,c,d[8],f[]={31599,19812,14479,31207,
 ;m=(s%3600)/60;s%=60;x=0;y=0;while(\n*p){if(*p!=64)o(*p);else while(*e){c=*e;s\
 witch(c){case 10:c='n';case 92:case 34\n:o(92);}o(c);if(x>77){o(92);o(10);}e++\
 ;}p++;}sleep(1);printf(\"\\033[%dA\\033[%dD\"\n,y,x);}}char*i=\"@\";//AS\n";//AS
+
