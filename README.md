@@ -36,5 +36,10 @@ Printing the time:
 from `f` is being printed.
 5. Print the character with the determined background color.
 
+
+## Demo
+https://github.com/arscisca/quine-clock/assets/39992784/97c57a09-efe8-4710-9f81-90735d139e7e
+
+
 ## Credit
 This project was inspired by [Tsoding's implementation](https://www.youtube.com/watch?v=plFwBqBYpcY).
