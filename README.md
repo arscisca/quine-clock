@@ -1,6 +1,11 @@
 # Quine-clock
 A C-[Quine](https://en.wikipedia.org/wiki/Quine_(computing)) that prints the current time on itself.
 
+
+## Demo
+https://github.com/arscisca/quine-clock/assets/39992784/97c57a09-efe8-4710-9f81-90735d139e7e
+
+
 ## Usage
 Compile and run the program:
 
@@ -35,10 +40,6 @@ Printing the time:
 4. When printing, keep track of the current `x` and `y`. Use them to determine which digit from `d` and which *pixel*
 from `f` is being printed.
 5. Print the character with the determined background color.
-
-
-## Demo
-https://github.com/arscisca/quine-clock/assets/39992784/97c57a09-efe8-4710-9f81-90735d139e7e
 
 
 ## Credit
